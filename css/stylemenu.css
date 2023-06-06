@@ -1,0 +1,283 @@
+body{ 
+    background:#0;
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+      *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+    }
+    
+    h6{margin-bottom: 40px;
+    margin-top: 30px;
+    }
+    
+ h5 {text-indent: 30px;
+     margin-left: 25px;
+     margin-right: 25px;
+     margin-top: 5px;
+     line-height: 20px;
+     }
+     
+    #cabecalho{
+        height: 136px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-image: url(backmen.jpg);
+        position: fixed;
+ }
+    #cabecalhologo{
+    height: 140px;
+    width: 200px;
+    margin-left: 10%;
+    margin-top: 7px;
+}
+    #inicio{
+    height: 136px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(16, 39, 240);
+ }
+
+        #bodysite{
+            height: 1900px;
+            width: 1200px;
+            background-color: rgba(22, 230, 230, 0);
+        }
+
+
+
+    #principal{
+    width: 60%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 6%;
+    background-color: rgb(216, 215, 215, 0);
+    float: left;
+    position: static;
+    min-height: 100px;
+    max-height: 15000px;
+    
+    
+}
+
+
+    
+    
+
+
+#principalsub{
+margin-top: 0px;
+margin-bottom: 80px;
+background-color: rgb(216, 215, 215);
+
+}
+
+
+    #barra99{
+        height: 60px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-image: url(link.jpg);
+    }
+    #links{
+        height: 60px;
+        width: 1300px;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-image: url(link.jpg)
+        }       
+        
+        
+        /* Style The Dropdown Button */
+.dropbtn {
+  
+  height: 45px;
+  background: none;
+  color: white;
+  padding: 0px;
+  margin-top: 7px;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  margin-left: 55px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: block;
+  display: inline-block;
+  
+}
+
+/* Dropdown Content (sub menu opções) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #6e786ed6;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  padding: 16px 16px;
+   width: 150px;
+   margin-left: 55px;
+   min-height: 30px;
+    max-height: 15000px;
+  
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  text-decoration: none;
+  display: block;
+  height: 35px;
+  background: none;
+  color: white;
+  padding: 10px;
+  margin-top: 4px;
+  font-size: 22px;
+  text-align: center;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #3c3c3cd0 ;  
+width: 100%;
+
+}
+
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+border: solid;
+  border-color: #000000bd;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #3e8c23a9 ;
+  border: solid;
+  border-color: #000000be;
+  width: 150px;
+ 
+}
+        
+        
+        
+        .h-menu{
+            width: 100%;
+        }
+        .h-menu ul{
+            margin: 0px 0;
+            padding: 0;
+            background-image: url(link.jpg)
+            
+        }
+        .h-menu li{
+            display: inline;
+            float: left;
+            margin-left: 10px;
+        }
+        .h-menu li a{
+            display: block;
+            color: white;
+            padding: 16px 16px;
+            text-decoration: none;
+            margin-left: 30px;
+            font-size: 50%;
+        }
+        .h-menu li a:hover{
+            background-color: rgba(151, 21, 211, 0.829);
+         
+        }
+        .h-menu li.active{
+            background-color: black;
+        }
+        #lado{
+            height: 3000px;
+            width: 340px;
+            margin-top: 30px;
+            background-color: rgba(255, 255, 255, 0);
+            float: left;
+            margin-left: 60px;
+        }
+            #links-2{
+               height: 2500px;
+               width: 340px;
+               background-color: rgba(255, 0, 204, 0.507);  
+
+            }
+            #propaganda2{
+               height: 240px;
+               width: 250px;
+               margin-top: 10px;
+               background-color: rgba(42, 150, 192, 0);  
+            }
+
+     #rodape{
+      
+        
+         width: 100%;
+         margin-left: 20px;
+         min-height: 100px;
+    max-height: 15000px;
+         background-color: #0;
+         clear: both;
+     }
+
+
+        #rodapea{
+             height: 600px;
+             width: 100%;
+          background-color: #0;
+        }
+      
+         #rodapea1{
+             height: 500px;
+             width: 425px;
+             background-color:  #ff2bf1;
+           float: left;
+          margin-left: 10%;
+        }
+        
+         #rodapea2{
+             height: 500px;
+             width: 425px;
+             background-color:  #ffa840;            
+        float: right;
+           margin-right: 10%;
+}        
+        
+        #rodapeb{
+             height: 100px;
+             width: 100%;
+           background-color:  #000000;
+            
+            
+            
+        }
+ 
+ 
+             #notic{
+                height: 500px;
+             width: 425px;
+             background-color:  #ffffff;
+             }
+             
+              #noticia{
+                height: 500px;
+             width: 425px;
+             background-color:  #3dbf2074;
+             }
+ 

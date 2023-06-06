@@ -1,0 +1,220 @@
+body{ 
+    background-image: url(deserto.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+      *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+    }
+    
+    h6{margin-bottom: 40px;
+    margin-top: 30px;
+    }
+    
+ h5 {text-indent: 30px;
+     margin-left: 25px;
+     margin-right: 25px;
+     margin-top: 5px;
+     line-height: 20px;
+     }
+     
+    #cabecalho{
+        height: 136px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-image: url(backmen.jpg);
+        position: fixed;
+ }
+    #cabecalhologo{
+    height: 140px;
+    width: 200px;
+    margin-left: 10%;
+    margin-top: 7px;
+}
+    #inicio{
+    height: 136px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(16, 39, 240);
+ }
+
+        #bodysite{
+            height: 1900px;
+            width: 1200px;
+            background-color: rgba(22, 230, 230, 0);
+        }
+
+
+
+    #principal{
+    width: 60%;
+    margin-top: 0px;
+    
+    margin-left: 4%;
+    background-color: rgb(216, 215, 215, 0);
+    float: left;
+    position: static;
+    min-height: 100px;
+    max-height: 15000px;
+    
+    
+}
+
+
+    
+    
+
+
+#principalsub{
+margin-top: 0px;
+margin-bottom: 50px;
+background-color: rgb(216, 215, 215);
+
+}
+
+
+    #barra99{
+        height: 60px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-image: url(link.jpg);
+    }
+    #links{
+        height: 60px;
+        width: 1300px;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-image: url(link.jpg)
+        }       
+        
+                  #menutt{
+              height: 800px;
+        width: 100%;
+                 border: none;
+             }  
+        
+   
+        #lado{
+            height: 2000px;
+            width: 340px;
+            margin-top: 30px;
+            margin-bottom: 70px;
+            background-color: rgba(255, 255, 255, 0);
+            float: left;
+            margin-left: 60px;
+        }
+            #links-2{
+               height:  1160px;
+               width: 430px;
+               background-color: rgba(255, 0, 204, 0.507);  
+
+            }
+            #propaganda2{
+               height: 500px;
+               width: 430px;
+               margin-top: 400px;
+               background-color: rgba(42, 150, 192);  
+            }
+
+     #rodape{
+      
+        
+         width: 100%;
+         margin-left: 0px;
+         min-height: 100px;
+    max-height: 15000px;
+         background-color: #0;
+         clear: both;
+     }
+
+
+        #rodapea{
+            
+             height: 600px;
+             width: 100%;
+          background-color: #0;
+        }
+      
+         #rodapea1{
+             height: 550px;
+             width: 475px;
+             background-color:  #ff2bf1;
+           float: left;
+          margin-left: 9%;
+        }
+        
+         #rodapea2{
+             height: 550px;
+             width: 475px;
+             background-color:  #68f9c65a;            
+        float: right;
+           margin-left: 35px;
+}        
+        
+ 
+
+             
+             
+             
+             #diviframecomerro{
+                  height: 0px;
+             width: 0;
+           background-color:  #a61c22; 
+             }
+             
+             #iframecomerro{
+                 border: none;
+                height: 0px;
+             width: 0px;
+             background-color:  #ffffff;
+             }
+             
+             
+             
+             
+             #notic{
+               border: none;
+                height: 550px;
+             width: 475px;
+             background-color:  #fcfcfc;
+            
+             }
+             
+              #noticia{
+              border: none;
+                height: 550px;
+             width: 475px;
+             background-color:  #fcfcfc;
+             }
+
+
+
+
+        #rodapeb{
+             height: 100px;
+             width: 100%;
+           background-color:  #a61c22;
+            
+            
+            
+        }
+
+#rodapeb1{
+         height: 100px;
+             width: 1300px;
+           background-color:  #000000;
+            
+        
+        
+     }
